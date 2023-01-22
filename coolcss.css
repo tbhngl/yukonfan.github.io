@@ -1,0 +1,17 @@
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+}
+
+@font-family {
+    font-family: victor;
+    src: url(VictorMono-Medium.tff);
+}
+
+body {
+    margin: 0;
+    background-color: white;
+    color: hsl(0, 0%, 10%);
+    line-height: 1.5;
+    font-family: Tahoma;
+}
